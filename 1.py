@@ -1,2 +1,2 @@
 print("siddhihon")
-print("siddhi yedi ahe")
+print("siddhi")
